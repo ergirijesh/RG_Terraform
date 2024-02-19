@@ -10,7 +10,7 @@ rgs = {
   }
 
   rg3 = {
-    name     = "shyam-rg3"
+    name     = "ram-rg"
     location = "West Europe"
   }
 }
