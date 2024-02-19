@@ -5,12 +5,7 @@ rgs = {
   }
 
   rg2 = {
-    name     = "giri-rg2"
-    location = "West Europe"
-  }
-
-  rg3 = {
-    name     = "shyam-rg"
+    name     = "ram-rg"
     location = "West Europe"
   }
   
