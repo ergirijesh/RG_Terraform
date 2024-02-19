@@ -4,4 +4,9 @@ rgs = {
     location = "West Europe"
   }
 
+  rg2 = {
+    name     = "ram-rg"
+    location = "West Europe"
+  }
+  
 }
