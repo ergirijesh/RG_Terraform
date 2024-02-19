@@ -8,5 +8,10 @@ rgs = {
     name     = "ram-rg"
     location = "West Europe"
   }
+  rg3 = {
+    name     = "shyam-rg"
+    location = "West Europe"
+  }
   
+
 }
