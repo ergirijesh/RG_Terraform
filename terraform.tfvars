@@ -4,17 +4,4 @@ rgs = {
     location = "West Europe"
   }
 
-  rg2 = {
-    name     = "giri-rg2"
-    location = "West Europe"
-  }
-
-  rg3 = {
-    name     = "ram-rg"
-    location = "West Europe"
-  },
-  rg4 = {
-    name     = "shyam-rg"
-    location = "West Europe"
-  }
 }
